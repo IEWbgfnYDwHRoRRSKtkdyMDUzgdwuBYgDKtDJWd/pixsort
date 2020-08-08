@@ -6,9 +6,7 @@ Goal: Find the shortest path to visit all black pixels in an image.
 
 Algorithm: Simulated annealing.
 
-![Frog](http://i.imgur.com/2xiwTVE.gif)
 
-![Peach](http://i.imgur.com/sCBhROn.gif)
 
 ## Usage
 
